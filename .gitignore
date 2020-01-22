@@ -1,2 +1,4 @@
 *.xml
 *.pyc
+.idea/
+mysite/__pycache__
